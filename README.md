@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Data Engineer | Python • SQL • AWS • ETL • Airflow • Redshift | Building scalable data solutions from raw data to business insights<br><br>* 💻 **Data Engineer** focused on building scalable data pipelines, ETL workflows, and cloud data solutions.<br>* ☁️ Hands-on experience with **AWS S3, AWS Glue, Amazon Redshift, and Apache Airflow**.<br>* 🐍 Strong working experience with **Python and SQL** for data transformation, automation, validation, and analytics.<br>* 🔄 Built and optimized **ETL pipelines** across healthcare, technology, and retail domains.<br>* 📊 Experienced in building **Power BI dashboards** and transforming data into business-ready insights.<br>* 🏥 Worked with **clinical data, SDTM/ADaM, CDISC standards, pharmacovigilance, and regulatory data**.<br>* ⚙️ Built pipelines processing **20M+ monthly records** and automated workflows that eliminated significant manual data processing.<br>* 🚀 Improved **reporting latency, query performance, data quality, and operational efficiency** through data engineering solutions.<br>* 🤝 Experienced in translating **business requirements into scalable technical solutions** while collaborating with cross-functional teams.<br>* 📈 Started my career in **Data Analytics** and progressed into **Data Engineering**, combining business understanding with technical expertise.<br>* 🎯 Interested in building **reliable, scalable, and impactful data systems** that help organizations make better decisions.<br>
 
-<!--
-**Anwitha-Buchannolla/Anwitha-Buchannolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anwitha-buchannolla/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anwitha.buchannolla13@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Anwitha-Buchannolla&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Anwitha-Buchannolla&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anwitha-Buchannolla&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Anwitha-Buchannolla&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
